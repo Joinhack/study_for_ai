@@ -1,0 +1,7 @@
+target/
+.DS_Store
+pkg/
+dist/
+node_modules/
+python/
+.venv/
